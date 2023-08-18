@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../overflow"
+		},
+		{
+			"path": "../my first codeing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my first codeing"
+	}
+}
